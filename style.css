@@ -3,7 +3,7 @@
 .all-in-one {
   font-family: "Work Sans", serif;
   font-optical-sizing: auto;
-  font-weight: weight;
+  font-weight: sweight;
   font-style: normal;
 }
 
@@ -71,17 +71,12 @@ nav ul li{
     font-weight:bold ;
     font-size: 56px;
 }
-.banner-profile-pic{
-    
-}
+
 .banner-content{
     width: 622px;
     height: 201px;
 }
 /* main styles */
-.taret-container{
-
-}
 .target-title{
     margin-left: 110px ;
     
